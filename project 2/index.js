@@ -18,3 +18,4 @@ document.getElementById("click").onclick = function(){
     name = document.getElementById("in").value;
     document.getElementById("title").textContent = `welcome ${name}`;
 }
+
